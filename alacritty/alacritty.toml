@@ -1,0 +1,12 @@
+[window]
+decorations = "Transparent"
+
+[font]
+size = 16
+normal = { family = "UbuntuMono", style = "Regular" }
+bold = { family = "UbuntuMono", style = "Bold" }
+italic = { family = "UbuntuMono", style = "Italic" }
+
+
+[keyboard]
+bindings = [{ key = "Escape", mode = "Vi", action = "ToggleViMode" },]
